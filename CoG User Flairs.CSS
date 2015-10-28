@@ -1,0 +1,235 @@
+
+/* --- User Flairs --- REMEMBER: USERNAMES ARE CASE SENSITIVE!!! Changes will take a moment to update --- */
+
+/* ============================ XBOX ONE ONLY ============================ */
+
+    #container a[href="/user/ChillyHellion"]:after {
+		background: #006600 ;
+		content: " X1 ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+
+    #container a[href="/user/GreffeduFoie"]:after {
+		background: #006600 ;
+		content: " X1 ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+
+/* ============================ PS3 ONLY ============================ */
+
+    #container a[href="/user/Techttz"]:after {
+		background: #0000FF ;
+		content: " PS3 ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+
+
+/* ============================ PC ONLY ============================ */
+
+    #container a[href="/user/Idunsums"]:after {
+		background: #333333 ;
+		content: " PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+	
+    #container a[href="/user/reacher"]:after {
+		background: #333333 ;
+		content: " PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+	
+    #container a[href="/user/Vansen"]:after {
+		background: #333333 ;
+		content: " PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+	
+    #container a[href="/user/Warden"]:after {
+		background: #333333 ;
+		content: " PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+	
+    #container a[href="/user/deformedwarf"]:after {
+		background: #333333 ;
+		content: " PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+	
+    #container a[href="/user/R0ot"]:after {
+		background: #333333 ;
+		content: " PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+		
+    #container a[href="/user/6double5321"]:after {
+		background: #333333 ;
+		content: " PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+				
+    #container a[href="/user/onyxthefortuitous"]:after {
+		background: #333333 ;
+		content: " PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+				
+    #container a[href="/user/zeroooc"]:after {
+		background: #333333 ;
+		content: " PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+				
+    #container a[href="/user/satnavtomington"]:after {
+		background: #333333 ;
+		content: " PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+		
+/* ============================ TABLETOP ============================ */	
+	
+	#container a[href="/user/Wil"]:after {
+		background: #339966 ;
+		content: " TT ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+	
+/* ============================ MIX OF PLATFORMS ============================ */	
+	
+	#container a[href="/user/Chiefpacman"]:after {
+		background: #333333 ;
+		content: " PS3/360/PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+	
+	#container a[href="/user/Kadynce"]:after {
+		background: #333333 ;
+		content: " PC/WU/PS4 ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+
+	#container a[href="/user/calebm02"]:after {
+		background: #333333 ;
+		content: " PC/360 ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+	
+	#container a[href="/user/Farseli"]:after {
+		background: #333333 ;
+		content: " PC/PS4 ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+	
+	#container a[href="/user/Womb_Raider"]:after {
+		background: #333333 ;
+		content: " PC/PS4 ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+	
+	#container a[href="/user/rectifryer"]:after {
+		background: #333333 ;
+		content: " PS4/X1/PC ";
+		padding: 1px;
+		position: relative;
+		top: 0;
+		margin-left: 6px;
+		color: white;
+		border-radius: 2px;
+	}
+		
+	
