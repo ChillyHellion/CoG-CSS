@@ -18,29 +18,32 @@
 
 /* --- Link Flairs --- */
 
-.f-news {  background: #185AD6 !important;  } /* Day-mode flair colour */
-.dark .f-news {  background: #185AD6 !important;  } /* Night-mode flair colour */
+.f-news {  background: #185AD6 !important;  } /* Day-mode flair color */
+.dark .f-news {  background: #185AD6 !important;  } /* Night-mode flair color */
 
-.f-humor {  background: #ffbf00 !important;  } /* Day-mode flair colour */
-.dark .f-humor {  background: #ffbf00 !important;  } /* Night-mode flair colour */
+.f-humor {  background: #ffbf00 !important;  } /* Day-mode flair color */
+.dark .f-humor {  background: #ffbf00 !important;  } /* Night-mode flair color */
 
-.f-meta {  background: #c9308d !important;  } /* Day-mode flair colour */
-.dark .f-meta {  background: #c9308d !important;  } /* Night-mode flair colour */
+.f-meta {  background: #c9308d !important;  } /* Day-mode flair color */
+.dark .f-meta {  background: #c9308d !important;  } /* Night-mode flair color */
 
-.f-discussion {  background: #F0660A !important;  } /* Day-mode flair colour */
-.dark .f-discussion {  background: #F0660A !important;  } /* Night-mode flair colour */
+.f-discussion {  background: #F0660A !important;  } /* Day-mode flair color */
+.dark .f-discussion {  background: #F0660A !important;  } /* Night-mode flair color */
 
-.f-deals {  background: #C5D916 !important;  } /* Day-mode flair colour */
-.dark .f-deals {  background: #C5D916 !important;  } /* Night-mode flair colour */
+.f-deals {  background: #C5D916 !important;  } /* Day-mode flair color */
+.dark .f-deals {  background: #C5D916 !important;  } /* Night-mode flair color */
 
-.f-video {  background: #ED0707 !important;  } /* Day-mode flair colour */
-.dark .f-video {  background: #ED0707 !important;  } /* Night-mode flair colour */
+.f-video {  background: #ED0707 !important;  } /* Day-mode flair color */
+.dark .f-video {  background: #a30000 !important;  } /* Night-mode flair color */
 
-.f-image {  background: #33A31F !important;  } /* Day-mode flair colour */
-.dark .f-image {  background: #33A31F !important;  } /* Night-mode flair colour */
+.f-image {  background: #33A31F !important;  } /* Day-mode flair color */
+.dark .f-image {  background: #33A31F !important;  } /* Night-mode flair color */
 
-.f-review {  background: #d872d5 !important;  } /* Day-mode flair colour */
-.dark .f-review {  background: #d872d5 !important;  } /* Night-mode flair colour */
+.f-review {  background: #d872d5 !important;  } /* Day-mode flair color */
+.dark .f-review {  background: #d872d5 !important;  } /* Night-mode flair color */
 
-.f-opinion{  background: #00ccff !important;  } /* Day-mode flair colour */
-.dark .f-opinion {  background: #00ccff !important;  } /* Night-mode flair colour */
+.f-opinion{  background: #00ccff !important;  } /* Day-mode flair color */
+.dark .f-opinion {  background: #00ccff !important;  } /* Night-mode flair color */
+
+.f-request {  background: #996633 !important;  } /* Day-mode flair colour */
+.dark .f-request {  background: #996633 !important;  } /* Night-mode flair colour */
